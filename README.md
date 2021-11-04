@@ -1,3 +1,3 @@
 
 # Gaming-Project
-In this project, I created a Gaming website front page using HTML and CSS
+In this project, I created a Gaming website Landing page using HTML and CSS
